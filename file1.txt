@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi
-hello
+feature
+added
+>>>>>>> feature
